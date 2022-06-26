@@ -34,5 +34,5 @@ I am student and taking courses about Front-end Web Development. <br/>
 
 <br />
 
-- 📍 &nbsp; Current location: Anseong, Korea
-- - 📨&nbsp; How to reach me:[@98_nuriddin](https://www.instagram.com/98_nuriddin)
+- 📍 &nbsp; Current location: Daegu, South Korea
+- - 📨&nbsp; How to reach me:[jamshid.makh94@gmail.com]
