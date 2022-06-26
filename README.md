@@ -8,7 +8,7 @@
         company = Becoder
         role = KMM_team_lead
     }
-    tech("Kotlin", "Android", "KMM")
+    tech("HTML", "CSS", "JAVASCRIPT", "REACTJS", "NEXTJS" )
     links {
         telegram = "@James_mx94"
     }
