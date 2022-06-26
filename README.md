@@ -2,7 +2,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/terrakok/terrakok/master/about.png"> More about me
 ```Jamshidbek
- dvJamshid = developer {
+ James-Jamshid = developer {
     about {
         name = "Jamshid Makhmudov"
         company = Becoder
