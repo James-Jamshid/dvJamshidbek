@@ -17,7 +17,7 @@
 
 
 
-I am student and taking courses about Front-end Web Development. <br/>
+I am student and taking courses about Front-End Web Development. <br/>
 <br />
 
 ### Languages and tools I working to learn and improve:
